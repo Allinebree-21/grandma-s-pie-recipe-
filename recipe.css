@@ -1,0 +1,34 @@
+/* Css code */
+main header{
+center-aligned: 22pt bold;
+}
+* {
+    header;
+    font-family: 'Lucida Sans Unicode','Helvetica', 'Arial', 'Sans-serif'
+}
+header{
+    foreground-color: #A4A400 (red= 164, green= 164, blue=0)
+    background-color: #f0f0f0(red= 240, blue=240)
+}
+
+h1,
+h2,
+h3,
+h4,
+h5{
+  left-aligned:18pt ;
+}
+body {
+background-color: white;
+}
+textbody{
+    foreground-color: #404040 (red=64, blue=64)
+   font: 11pt; 
+}
+{
+    textbody;
+    font-family: 'Georgia', 'Garamond', 'serif'
+}
+links{
+    color: #A4A400 (red=164, blue=0)
+}
